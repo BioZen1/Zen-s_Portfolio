@@ -1,2 +1,3 @@
-# Zen-s_Portfolio
-Analytics Portfolio
+# Zen's Portfolio
+
+# [Project 1: Buying Behaviour of Nigerians]
