@@ -13,4 +13,4 @@ This is a collaborated project i did with other data analyst during the training
 * Location was within Nigeria 
 
 
-[Overview of the Dashboard](Dashboard Overview.png)
+[Overview of the Dashboard](Dashboard_Overview.png)
