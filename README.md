@@ -11,3 +11,6 @@ This is a collaborated project i did with other data analyst during the training
 * All age distribution was targetted
 * Respondents age were predominantly young adults, between the age of 18 and 35
 * Location was within Nigeria 
+
+
+[Overview of the Dashboard](Dashboard Overview.png)
