@@ -1,6 +1,6 @@
 # Zen's Portfolio
 
-# [Project 1: Buying Behaviour of Nigerians](https://github.com/BioZen1/Buying-Behaviour-of-Nigerians)
+# [Project 1: Buying Behaviour of Nigerians](https://github.com/BioZen1/Buying-Behaviour-of-Nigerians.git)
 
 This is a collaborated project i did with other data analyst during the training, where we did an analysis on how Nigerians buy and consume things 
 
