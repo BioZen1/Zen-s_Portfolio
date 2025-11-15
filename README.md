@@ -1,4 +1,4 @@
-# Zen's Portfolio
+# Ismail's Data Analytics Portfolio
 
 # [Project 1: Buying Behaviour of Nigerians](https://github.com/BioZen1/Buying-Behaviour-of-Nigerians.git)
 
